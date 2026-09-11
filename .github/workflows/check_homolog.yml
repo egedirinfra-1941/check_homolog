@@ -1,4 +1,4 @@
-name: Execute check_homolog script
+name: Simulacao
 
 on:
   schedule:
